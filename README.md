@@ -1,7 +1,6 @@
 <h1 align="center"> Hello, I'm Ishan Umayanga 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | Front-end Developer | Freelancer  </h3> <br>
-[Fiverr](https://www.fiverr.com/ishanjayathilak)
 From Here You can get my services:
 <br>
 <a href="https://www.fiverr.com/ishanjayathilak/make-your-portfolio-web-site">Business Website / Portfolio websites</a><br>
@@ -29,3 +28,4 @@ From Here You can get my services:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐️ From [IshanUJ](http://www.github.com/IshanUJ)
+[IshanUJ](https://www.fiverr.com/ishanjayathilak)
