@@ -27,5 +27,5 @@ From Here You can get my services:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐️ From [IshanUJ](http://www.github.com/IshanUJ)
-[IshanUJ](https://www.fiverr.com/ishanjayathilak)
+⭐️ From [IshanUJ](http://www.github.com/IshanUJ)<br>
+[Fiverr](https://www.fiverr.com/ishanjayathilak)
