@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Ishan Umayanga 👨‍💻 </h1>
 
-<h3 align="center">  Tech Enthusiast | Front-end Developer | Freelancer  </h3> <br>
+<h3 align="center">  Tech Enthusiast | UI/UX designer | Freelancer  </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
